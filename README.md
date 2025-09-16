@@ -29,6 +29,50 @@ This is a **full-stack MERN project** built to manage and search car spare parts
 /database   -> MongoDB  
 ```
 
+## ⚡ How to Use  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/username/repo-name.git
+   cd repo-name
+   ```
+
+2. **Install dependencies for backend**  
+   ```bash
+   cd backend
+   npm install
+   ```
+
+3. **Install dependencies for frontend**  
+   ```bash
+   cd ../frontend
+   npm install
+   ```
+
+4. **Setup environment variables**  
+   Create a `.env` file in the `backend` folder and add:  
+   ```env
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+   CLOUDINARY_URL=your_cloudinary_url
+   ```
+
+5. **Run the backend server**  
+   ```bash
+   cd backend
+   npm run dev
+   ```
+
+6. **Run the frontend server**  
+   ```bash
+   cd frontend
+   npm run dev
+   ```
+
+7. **Open in browser**  
+   Visit: `http://localhost:5173` (or the port shown in terminal).  
+
+
 ## 🎯 Outcome  
 - Successfully hosted the project online  
 - Won **1st Prize** for Best Full-Stack MERN Project at TechGeekConnect  
