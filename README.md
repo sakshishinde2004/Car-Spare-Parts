@@ -22,9 +22,9 @@ This is a **full-stack MERN project** built to manage and search car spare parts
 - Connected database with frontend for smooth data flow  
 
 ## 📂 Project Structure  
-/frontend -> ReactJS code
-/backend -> Node.js + Express.js APIs
-/database -> MongoDB
+/frontend -> ReactJS code 
+/backend -> Node.js + Express.js APIs 
+/database -> MongoDB 
 
 
 ## 🎯 Outcome  
