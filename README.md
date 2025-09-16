@@ -1,5 +1,5 @@
 # Car Spare Parts Management System 
-##An e-Commerce website
+## An E-Commerce Website
 
 This is a **full-stack MERN project** built to manage and search car spare parts efficiently. It was developed as part of our internship project at **TechGeekConnect**, where our team collaborated to deliver a complete solution.  
 
