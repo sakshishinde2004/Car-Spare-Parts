@@ -33,8 +33,8 @@ This is a **full-stack MERN project** built to manage and search car spare parts
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/sakshishinde2004/car-spare-parts-ecommerce.git
+   cd car-spare-parts-ecommerce
    ```
 
 2. **Install dependencies for backend**  
@@ -42,12 +42,29 @@ This is a **full-stack MERN project** built to manage and search car spare parts
    cd backend
    npm install
    ```
+   **Backend dependencies include:**  
+   - express  
+   - mongoose  
+   - cors  
+   - dotenv  
+   - bcryptjs  
+   - jsonwebtoken  
+   - multer  
+   - cloudinary  
+   - multer-storage-cloudinary  
 
 3. **Install dependencies for frontend**  
    ```bash
    cd ../frontend
    npm install
    ```
+   **Frontend dependencies include:**  
+   - react  
+   - react-dom  
+   - react-router-dom  
+   - axios  
+   - tailwindcss  
+   - vite  
 
 4. **Setup environment variables**  
    Create a `.env` file in the `backend` folder and add:  
@@ -71,7 +88,6 @@ This is a **full-stack MERN project** built to manage and search car spare parts
 
 7. **Open in browser**  
    Visit: `http://localhost:5173` (or the port shown in terminal).  
-
 
 ## 🎯 Outcome  
 - Successfully hosted the project online  
